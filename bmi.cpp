@@ -1,7 +1,7 @@
 //e24076035簡成翰
 //lab2
 //Mar 13 2019
-
+//revision
 #include<iostream>
 #include<iomanip>	//std::setprecision
 #include<string>	//std::string
