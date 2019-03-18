@@ -12,5 +12,7 @@ public:
 	string s;
 private:
 	double BMIval;
+	double heights;
+	double weights;
 };
 #endif
