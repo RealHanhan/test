@@ -1,0 +1,32 @@
+Script started on 2019-03-18 18:49:45+08:00 [TERM="xterm" TTY="/dev/pty0" COLUMNS="210" LINES="58"]
+]0;~/lab02
+[32muser@LittleHanhan [33m~/lab02[0m
+$ make
+g++ -o bmi main.o bmi.o
+]0;~/lab02
+[32muser@LittleHanhan [33m~/lab02[0m
+$ ./bmi
+<Ring>
+File is created as following displayed！
+You're able to find it inside of the programming folder.
+file name is'file_out.txt'.
+Calculation of BMI from inserted data:
+BMI     Category
+23.53	Normal.
+33.2	Obese Class I (Moderately obese)！
+12.86	Abysmally-underweight！
+15.73	Severely-underweight！
+20.83	Normal.
+22.66	Normal.
+15.51	Severely-underweight！
+23.48	Normal.
+19.53	Normal.
+27.47	Overweight！
+22.16	Normal.
+46.06	Obese Class III (Abysmally obese)！
+40.09	Obese Class III (Abysmally obese)！
+]0;~/lab02
+[32muser@LittleHanhan [33m~/lab02[0m
+$ exit
+
+Script done on 2019-03-18 18:50:39+08:00 [COMMAND_EXIT_CODE="0"]
